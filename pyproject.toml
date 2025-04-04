@@ -1,7 +1,11 @@
 [project]
-name = "mcp"
+name = "mcp-experiment"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "beeai-framework>=0.1.13",
+    "ipykernel>=6.29.5",
+    "mcp>=1.6.0",
+]
