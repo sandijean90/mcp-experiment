@@ -8,4 +8,6 @@ dependencies = [
     "beeai-framework>=0.1.13",
     "ipykernel>=6.29.5",
     "mcp>=1.6.0",
+    "npx>=0.1.6",
+    "termcolor>=3.0.1",
 ]
